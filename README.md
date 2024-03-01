@@ -1,1 +1,1 @@
-# See the IPYNB file
+# See the Jupyter Notebook titled 'grain.ipynb'
